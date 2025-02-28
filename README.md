@@ -1,5 +1,3 @@
-Copy
-
 # Fine-Tuning Large Language Models (LLMs) with Unsloth
 
 This repository provides a step-by-step guide and code for fine-tuning large language models (LLMs) using **Unsloth**, a library designed to make fine-tuning faster and more memory-efficient. The process is optimized for a single GPU, making it accessible for smaller setups.
