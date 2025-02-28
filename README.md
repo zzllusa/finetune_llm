@@ -131,12 +131,3 @@ For questions or feedback, please open an issue in the repository or contact the
 Copy
 
 
----
-
-### **Steps to Create and Download the `.txt` File**
-1. Open a text editor (e.g., Notepad, VS Code, or any other).
-2. Copy the content above into the text editor.
-3. Save the file with the name `README.txt`.
-4. Download the file to your device.
-
-Let me know if you need further assistance! 😊
